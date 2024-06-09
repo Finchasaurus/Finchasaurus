@@ -22,6 +22,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; background: url('https://raw.githubusercontent.com/Finchasaurus/Finchasaurus/master/wallpaper.jpg') center bottom;]{x0000}$}
